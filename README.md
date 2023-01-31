@@ -1,2 +1,2 @@
 # Yetgen-Python-Jump
-Ödev için açılmıştır
+Ödev için deneme
