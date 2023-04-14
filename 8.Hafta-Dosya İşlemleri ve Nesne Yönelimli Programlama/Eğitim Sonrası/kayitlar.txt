@@ -1,0 +1,7 @@
+Kullanıcı adı Emre
+yas 22
+,kilo 70.0
+,boy 1.75
+Vucut kitle endeksi22.9
+Değer aralığı normal kilo
+oluşturma tarihi Fri Apr 14 15:15:16 2023
